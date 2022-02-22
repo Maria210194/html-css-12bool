@@ -14,6 +14,10 @@
     color: white;
 }
 
+.bg-green{
+    background-color: #00e165;
+}
+
 .pad-right{
     padding-right: 5px;
 }
@@ -50,8 +54,4 @@
 
 .no-txt > * {
     border: 1px solid white;
-}
-
-.end{
-    justify-content: flex-end;
 }
