@@ -30,6 +30,10 @@
     height: 30px;
 }
 
+.h-90{
+    height: 90px;
+}
+
 /* content */
 .row{
     padding: 1px 0px;

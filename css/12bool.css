@@ -18,6 +18,38 @@
     flex-wrap: wrap;
 }
 
+.row.align-left {
+  justify-content: flex-start;
+}
+
+.row.align-center {
+  justify-content: center;
+}
+
+.row.align-right {
+  justify-content: flex-end;
+}
+
+.row.align-top {
+  align-items: flex-start;
+}
+
+.row.align-middle {
+  align-items: center;
+}
+
+.row.align-bottom {
+  align-items: flex-end;
+}
+
+.row.space-around {
+  justify-content: space-around;
+}
+
+.row.space-between {
+  justify-content: space-between;
+}
+
 .col-grow{
     flex-grow: 1;
 }
